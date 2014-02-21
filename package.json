@@ -1,7 +1,7 @@
 {
   "name": "coffeegulp",
-  "version": "0.0.2",
-  "description": "Gulp task runner with built-in CoffeeScript support",
+  "version": "0.0.3",
+  "description": "A tiny wrapper around Gulp to run your `gulpfile.coffee`.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

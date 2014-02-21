@@ -1,4 +1,6 @@
 # CoffeeGulp
-[Gulp](http://gulpjs.com/) task runner with built-in CoffeeScript support
+A tiny wrapper around [Gulp](http://gulpjs.com/) to run your `gulpfile.coffee`.
+
 ## Install
 `npm install coffeegulp -g`
+
