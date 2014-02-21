@@ -1,6 +1,6 @@
 {
   "name": "coffeegulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp task runner with built-in CoffeeScript support",
   "main": "index.js",
   "scripts": {
