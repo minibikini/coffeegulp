@@ -10,7 +10,7 @@
     "gulp",
     "wrapper",
     "coffee",
-    "coffee-script"
+    "coffee-script",
     "coffeescript"
   ],
   "repository": {
