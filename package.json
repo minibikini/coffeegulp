@@ -23,7 +23,7 @@
   "author": "Egor Kislitsyn <egor@kislitsyn.com>",
   "license": "MIT",
   "dependencies": {
-    "coffee-script": "^1.7.1",
+    "coffee-script": "^1.8.0",
     "gulp": "^3.8.9"
   }
 }
