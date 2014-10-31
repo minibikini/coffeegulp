@@ -26,6 +26,9 @@
     "email": "egor@kislitsyn.com",
     "url": "http://kislitsyn.com"
   },
+  "engines": {
+    "node": ">= 0.9"
+  },
   "bugs": {
     "url": "https://github.com/minibikini/coffeegulp/issues"
   },
