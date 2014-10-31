@@ -22,6 +22,9 @@
     "coffeegulp": "./index.js"
   },
   "author": "Egor Kislitsyn <egor@kislitsyn.com>",
+  "bugs": {
+    "url": "https://github.com/minibikini/coffeegulp/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "coffee-script": "^1.8.0",
