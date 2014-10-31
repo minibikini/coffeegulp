@@ -36,5 +36,8 @@
   "dependencies": {
     "coffee-script": "^1.8.0",
     "gulp": "^3.8.9"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
