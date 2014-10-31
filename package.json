@@ -26,6 +26,7 @@
     "email": "egor@kislitsyn.com",
     "url": "http://kislitsyn.com"
   },
+  "engineStrict": true,
   "engines": {
     "node": ">= 0.9"
   },
