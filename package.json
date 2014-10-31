@@ -21,7 +21,11 @@
  "bin": {
     "coffeegulp": "./index.js"
   },
-  "author": "Egor Kislitsyn <egor@kislitsyn.com>",
+  "author": {
+    "name": "Egor Kislitsyn",
+    "email": "egor@kislitsyn.com",
+    "url": "http://kislitsyn.com"
+  },
   "bugs": {
     "url": "https://github.com/minibikini/coffeegulp/issues"
   },
