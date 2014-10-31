@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "A tiny wrapper around Gulp to run your `gulpfile.coffee`.",
   "main": "index.js",
+  "homepage": "https://github.com/minibikini/coffeegulp",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
